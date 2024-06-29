@@ -12,7 +12,7 @@ public class constructor_ol{
             System.out.println("This is a default constructor");
         }
 
-        user(int i,String n){
+        user(int i,String n){ //parameterized constructor
             id = i;
             name = n;
         }
